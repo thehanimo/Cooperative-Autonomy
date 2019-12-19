@@ -432,6 +432,24 @@ false
 PENS
 "default" 1.0 0 -16777216 true "" "plot avg-travel-time"
 
+PLOT
+805
+500
+1005
+650
+mean-speed
+NIL
+NIL
+0.0
+10.0
+0.0
+2.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plot mean [speed] of turtles"
+
 @#$#@#$#@
 ## Changelog
 
